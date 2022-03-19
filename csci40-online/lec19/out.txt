@@ -1,0 +1,7 @@
+hello
+world!
+This is an example of ofstreams
+(and also of getline)
+...
+here is more stuff
+extra lines!!!
