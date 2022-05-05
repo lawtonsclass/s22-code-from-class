@@ -46,7 +46,7 @@ def go_up():
 def go_down():
     global paddle_y
     paddle_y = paddle_y - 10
-    # make sure we don't go past the top
+    # make sure we don't go past the bottom
     if paddle_y <= -140:
         paddle_y = -140
     turtle.goto(paddle_x, paddle_y)
